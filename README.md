@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swizz84
 - 👀 I’m interested in SQL server, .Net development on GitHub. Sports, Football clubs Blackburn Rovers, FK Haugesund and gaming.
 - 🌱 I’m currently learning Blazor for a new hobby project.
-- Twitter.com/SveinEven
+- https://bsky.app/profile/sveineven.homemgt.net
 - Youtube.com/user/Swizz84
 
 <!---
